@@ -1,6 +1,6 @@
 # Data Structures & Algorithms Journey in C++ and Python
 
-![Header Banner](https://via.placeholder.com/1200x300.png?text=My+DSA+Portfolio)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DSA%20Portfolio&fontSize=90)
 
 Welcome to my personal DSA repository! This project is a curated collection of my solutions to various LeetCode problems, implemented in both C++ and Python. It serves as a living document of my journey in mastering fundamental computer science concepts, from basic data structures to advanced algorithms.
 
