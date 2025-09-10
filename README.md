@@ -1,8 +1,26 @@
+# Data Structures & Algorithms Journey in C++ and Python
 
-Each problem folder contains:
-1. **README.md** → Problem statement, approach, complexity.  
-2. **C++ code** → `.cpp` implementation.  
-3. **Python code** → `.py` implementation.  
+![Header Banner](https://via.placeholder.com/1200x300.png?text=My+DSA+Portfolio)
+
+Welcome to my personal DSA repository! This project is a curated collection of my solutions to various LeetCode problems, implemented in both C++ and Python. It serves as a living document of my journey in mastering fundamental computer science concepts, from basic data structures to advanced algorithms.
+
+---
+
+## 🎯 Purpose of This Repository
+
+* **To Learn:** Actively solve problems to deepen my understanding of data structures and algorithms.
+* **To Showcase:** Demonstrate my problem-solving skills, coding style, and knowledge of C++ and Python to potential recruiters and peers.
+* **To Document:** Create a well-organized reference for myself, complete with explanations and complexity analysis for each problem.
+
+---
+
+## 🛠️ Tech Stack
+
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
