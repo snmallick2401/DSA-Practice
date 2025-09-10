@@ -46,10 +46,14 @@ Given an array of integers `nums` and an integer `target`, return indices of the
 ## 📊 Progress Tracker
 | Topic              | Problems Solved |
 |--------------------|-----------------|
-| Arrays             |  ✅ 2 |
-| Linked List        |  ✅ 1 |
-| Dynamic Programming|  ✅ 1 |
-| Graphs             |  🚧 In Progress |
+| The basics             |  ✅ 2 |
+| Sorting Techniques        |  ✅ 1 |
+| Arrays |  ✅ 1 |
+| Binary search |  🚧 In Progress |
+| strings |  🚧 In Progress |
+| LinkedList |  🚧 In Progress |
+| Recursion |  🚧 In Progress |
+| Bit Manipulation |  🚧 In Progress |
 
 *(This table will be updated as I solve more problems.)*  
 
@@ -87,7 +91,7 @@ This is primarily my learning repo, but if you’d like to contribute:
 ## 📧 Contact
 👤 **S. N. Mallick**  
 📍 B.Tech CSE, University of Engineering and Technology, Hazaribagh  
-📬 [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com)  
+📬 [LinkedIn](https://www.linkedin.com/in/snmallick2401/) | [GitHub](https://github.com/snmallick2401)  
 
 ---
 
