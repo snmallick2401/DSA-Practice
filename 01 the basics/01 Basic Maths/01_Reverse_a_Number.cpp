@@ -13,7 +13,10 @@ int main() {
         x /= 10;
     }
 
-    if (ans < INT_MIN || ans > INT_MAX) return 0;
+    if (ans < INT_MIN || ans > INT_MAX) {
+        cout << "your number is too big" << endl;
+        return 0;
+    }
 
     cout << "Reversed number : " << ans << endl;
     return 0;
