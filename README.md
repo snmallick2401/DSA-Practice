@@ -24,25 +24,6 @@ Welcome to my personal DSA repository! This project is a curated collection of m
 
 ---
 
-## 🏷️ Example Problem Format
-Here’s how each problem is documented inside its folder:
-
-### 📌 Two Sum (LeetCode #1)
-
-**Problem Statement**  
-Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to target.
-
-**Approach**  
-- Use a hashmap to store numbers and their indices.  
-- For each element, check if `target - current` exists in the hashmap.  
-- Time: **O(n)**, Space: **O(n)**.  
-
-**Solutions**  
-- [two_sum.cpp](Arrays/Two_Sum/two_sum.cpp)  
-- [two_sum.py](Arrays/Two_Sum/two_sum.py)  
-
----
-
 ## 📊 Progress Tracker
 | Topic              | Problems Solved |
 |--------------------|-----------------|
